@@ -4,4 +4,4 @@
 "Who's there?"
 "Git"
 "Git who?"
-"Really?..."
+"Git this joke over with."
